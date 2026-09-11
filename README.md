@@ -8,18 +8,18 @@ Bersama, Pasti Ada Jalan
 - Absen : 10
 - Kelas : X TKJ 1
 
-## Company Profile
+## Company's Profile
 
 Go-Jek adalah sebuah perusahaan teknologi asal indonesia yang melayani bermacam permintaan jasa menggunakan kendaraan bermotor roda dua atau mobil dan dapat dipesan melalui panggilan telepon. Pengemudi motor dengan ciri-ciri menggunakan atribut (Jacket dan helmet) yang berwarna hijau kini sangat
 fenomenal dikalangan masyarakat.
 
 Gojek (ditulis bergaya sebagai gojek; sebelumnya ditulis GO-JEK) merupakan Situs web teknologi asal Indonesia yang melayani angkutan melalui jasa ojek. Perusahaan ini didirikan pada tahun 2009 di Jakarta oleh Nadiem Makarim.[2][3] Saat ini, Gojek telah tersedia di 50 kota di Indonesia.[4] Hingga bulan Juni 2016, aplikasi Gojek sudah diunduh sebanyak hampir 10 juta kali di Google Play pada sistem operasi Android,[5] dan telah tersedia di App Store. Gojek juga mempunyai layanan pembayaran digital yang bernama Gopay, pengantaran makanan dan minuman. Selain di Indonesia, layanan Gojek kini telah tersedia di Vietnam dan Singapura.
 
-## Company Vision
+## Company's Vision
 
 Membantu memperbaiki struktur transportasi di Indonesia, memberikan kemudahan bagi masyarakat dalam melaksanakan pekerjaan sehari-hari seperti pengiriman dokumen, belanja harian dengan menggunakan layanan fasilitas kurir, serta turut mensejahterakan kehidupan tukang ojek di Indonesia baik untuk masa kini dan kedepannya. Bertujuan membantu memperbaiki struktur transportasi di Indonesia, memberikan kemudahan bagi masyarakat dalam melaksanakan pekerjaan sehari-hari seperti pengiriman dokumen, belanja harian dengan menggunakan layanan fasilitas kurir, serta turut mensejahterakan kehidupan tukang ojek di Indonesia baik untuk masa kini dan kedepannya.
 
-## Company Mission
+## Company's Mission
 
 - Menjadi acuan pelaksanaan kepatuhan dan tata kelola struktur.
 - Transportasi yang baik dengan menggunakan kemajuan teknologi.
@@ -94,14 +94,14 @@ Membantu memperbaiki struktur transportasi di Indonesia, memberikan kemudahan ba
 17. Go-Pay  
     Go-Pay adalah layanan dompet virtual untuk memudahkan transaksi Anda di dalam aplikasi Go-Jek.
 
-## Company Address
+## Company's Address
 
 Head Office
 Pasaraya Blok M Gedung B Lt. 6
 Jalan Iskandarsyah II No.7, RW. 2, Melawai, Kebayoran Baru, RT.3/RW.1, Melawai, Kby. Baru
 Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12160
 
-## Official Link
+## Official Links
 
 - https://www.gojek.com/en-id
 - https://www.gotocompany.com/
@@ -113,7 +113,7 @@ Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12160
 - https://www.instagram.com/gojekindonesia/
 - https://www.youtube.com/channel/UCmlKSK0OKn_B3oPwElW4n5w
 
-## Reference
+## References
 
 - https://www.gotocompany.com/
 - https://www.gojek.com/blog/gojek/goto
