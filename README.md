@@ -17,7 +17,7 @@ Gojek (ditulis bergaya sebagai gojek; sebelumnya ditulis GO-JEK) merupakan Situs
 
 ## Company's Vision
 
-Membantu memperbaiki struktur transportasi di Indonesia, memberikan kemudahan bagi masyarakat dalam melaksanakan pekerjaan sehari-hari seperti pengiriman dokumen, belanja harian dengan menggunakan layanan fasilitas kurir, serta turut mensejahterakan kehidupan tukang ojek di Indonesia baik untuk masa kini dan kedepannya. Bertujuan membantu memperbaiki struktur transportasi di Indonesia, memberikan kemudahan bagi masyarakat dalam melaksanakan pekerjaan sehari-hari seperti pengiriman dokumen, belanja harian dengan menggunakan layanan fasilitas kurir, serta turut mensejahterakan kehidupan tukang ojek di Indonesia baik untuk masa kini dan kedepannya.
+Membantu memperbaiki struktur transportasi di Indonesia, memberikan kemudahan bagi masyarakat dalam melaksanakan pekerjaan sehari-hari seperti pengiriman dokumen, belanja harian dengan menggunakan layanan fasilitas kurir, serta turut mensejahterakan kehidupan tukang ojek di Indonesia baik untuk masa kini dan kedepannya. 
 
 ## Company's Mission
 
