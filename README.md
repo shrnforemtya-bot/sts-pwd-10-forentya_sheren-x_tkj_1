@@ -94,6 +94,18 @@ Membantu memperbaiki struktur transportasi di Indonesia, memberikan kemudahan ba
 17. Go-Pay  
     Go-Pay adalah layanan dompet virtual untuk memudahkan transaksi Anda di dalam aplikasi Go-Jek.
 
+## Awards and Recognitions
+
+1. Mendapat penghargaan “Aplikasi Transportasi Online Favorit Publik” dan “Aplikasi Transportasi Online Terbaik untuk Mendukung Integrasi Transportasi Publik” di Ajang Penghargaan Dewan Transportasi Jakarta (DTKJ) 2024.
+2. Mendapat penghargaan “Best Organizational CX Gold” dan “Best CX Champion Gold” di Contact Center World Awards 2024 untuk inisiatif Transportasi Publik Terintegrasi, bekerja sama dengan PT KCI (Commuterline).
+3. Mendapat penghargaan Perusahaan Pemberdayaan Perempuan Terbaik 2025 oleh Majalah HerStory Warta Ekonomi atas program pionir untuk mencegah pelecehan seksual.
+4. GoFood diakui sebagai aplikasi layanan antar makanan paling populer, menurut Laporan Jakpat 2025.
+5. GoFood dinobatkan sebagai aplikasi paling ramah pengguna selama pandemi.
+6. Menduduki peringkat #11 di Fortune’s top 50 companies that changed the world. Salah satu dari sedikit perusahaan Asia Tenggara yang masuk daftar Fortune dua kali.
+7. Masuk dalam 10 Merek Terkuat di Indonesia di ajang Brand Asia awards. Parameter – loyalitas merek, keterlibatan media, dan CSR.
+8. Pemenang, UN Women 2020 Asia Pacific Women Empowerment Principles awards. Kategori - Keterlibatan Komunitas dan Industri.
+9. Dinobatkan sebagai “Pilihan Konsumen untuk Layanan Pengiriman Makanan” di penghargaan Bisnis Indonesia Logistik 2024.
+
 ## Company's Address
 
 Head Office
@@ -126,3 +138,5 @@ Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12160
 Saya menyatakan bahwa riset dan kode README ini telah saya kerjakan sendiri dengan menggunakan berbagai sumber resmi perusahaan tanpa menggunakan AI
 
 ## Index.html
+
+http://127.0.0.1:5500/index.html
